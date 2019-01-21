@@ -1,4 +1,4 @@
-### Shopify-Web-Engineer Challenge
+## Shopify-Web-Engineer Challenge
 Build a web app to search for waste items using the Toronto Waste Wizard database, and save frequently used ones.
 
 ### Navigation
